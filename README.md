@@ -4,9 +4,8 @@ This repository holds the starting source code of ecommerce store which makes us
 Features -
 CRUD operations of products that belongs to different categories by authenticated users
 Providing checkout facilities
-Integrating a payment gateway
 Setting up user friendly for admin panel
 Usage
 
-Simply clone this repo and run
+Simply clone this repo and run 
 
